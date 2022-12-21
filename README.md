@@ -1,4 +1,4 @@
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Bugf1xer)](https://github.com/anuraghazra/github-readme-stats)
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=bugf1xer)](https://github.com/anuraghazra/github-readme-stats)
 
 # About Me
 * Blog: [bugf1xer.github.io](https://bugf1xer.github.io/)
