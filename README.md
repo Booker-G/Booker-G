@@ -3,3 +3,4 @@
 # About Me
 * Blog: [bugf1xer.github.io](https://bugf1xer.github.io/)
 * LinkedIn: [linkedin.com/in/booker-guan/](https://www.linkedin.com/in/booker-guan/)
+* Email: ...
